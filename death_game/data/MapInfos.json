@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"빈공간","order":3,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"집","order":1,"parentId":0,"scrollX":759.3333333333334,"scrollY":424.6666666666667},
-{"id":3,"expanded":true,"name":"잠수정 복도","order":2,"parentId":0,"scrollX":493.77777777777777,"scrollY":492.44444444444446}
+{"id":1,"expanded":false,"name":"빈공간","order":3,"parentId":0,"scrollX":728,"scrollY":424.8888888888889},
+{"id":2,"expanded":true,"name":"집","order":1,"parentId":0,"scrollX":728,"scrollY":424.8888888888889},
+{"id":3,"expanded":true,"name":"잠수정 복도","order":2,"parentId":0,"scrollX":720.8888888888889,"scrollY":492.44444444444446}
 ]
